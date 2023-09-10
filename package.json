@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/farmbot/farmbot-web-app"
+    "url": "https://github.com/adamfather0/farmbot-web-app"
   },
   "scripts": {
     "coverage": "cat **/*lcov.info | ./node_modules/coveralls/bin/coveralls.js",
